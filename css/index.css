@@ -1,0 +1,44 @@
+.panel-control{
+    display: flex;
+    justify-content: space-between;
+    margin: 13px 53px;
+    max-width: 1192px;
+    height: 64px;
+    margin: auto;
+ 
+}
+
+.nav-logo{
+    display: flex;
+    align-items: center;
+
+}
+.panel-control img{
+    height: 45px;
+
+}
+
+.nav-1 {
+    width: 120px;
+    background-color: gray;
+}
+
+.buscador{
+    width: 400px;
+    height: 60px;
+    background-color: gray;
+}
+
+.panel-iconos {
+    width: 307px;
+    height: 60px;
+    background-color: gray;
+}
+
+.buscador input {
+     width: 100%;
+     border-style: none;
+     background-color: f7f47;
+     inline-size: none;
+
+}
